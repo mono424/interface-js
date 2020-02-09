@@ -1,0 +1,14 @@
+{
+  "name": "@mono424/interfacejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "WTFPL",
+  "description": "",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
