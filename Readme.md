@@ -2,6 +2,12 @@
 Just a simple helper to create a self-checking constructor function
 
 ## Get started
+Install from npm
+```
+npm --save install @mono424/interface-js
+```
+
+Use :)
 
 ```
 const interface = require('./interface');
